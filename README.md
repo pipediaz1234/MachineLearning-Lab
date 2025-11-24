@@ -1,6 +1,6 @@
 ## Autores 
 - Andrés Felipe Díaz Campos  
-- Katerine Forero Silva
+  
 
 ## Contenido:
 # 1 Spam-vs-Ham-LogisticRegression 
